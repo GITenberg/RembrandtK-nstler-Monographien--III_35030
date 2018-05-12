@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37412'
     url: http://www.gutenberg.org/2009/agents/37412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35030#RembrandtK-nstler-Monographien--III
 gutenberg_bookshelf:
 - DE Sachbuch
 - DE Prosa
